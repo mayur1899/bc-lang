@@ -80,4 +80,4 @@ a = bhenchod.multiplyKarBhadve([<list of numbers to multiply>])
 a = bhenchod.divideKarBhadve(a, b)
 ```
 
-## CREATE BY Mayur Solanki
+## CREATED BY Mayur Solanki
